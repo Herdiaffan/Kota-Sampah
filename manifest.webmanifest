@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "KOTA BERSIH 3D — Urban Cleanup Simulator",
+  "short_name": "Kota Bersih 3D",
+  "description": "Game simulasi 3D membersihkan kota, memilah sampah, meng-upgrade peralatan, dan menyelesaikan misi lingkungan.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#10271f",
+  "theme_color": "#10271f",
+  "icons": [
+    {
+      "src": "./assets/visual/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
